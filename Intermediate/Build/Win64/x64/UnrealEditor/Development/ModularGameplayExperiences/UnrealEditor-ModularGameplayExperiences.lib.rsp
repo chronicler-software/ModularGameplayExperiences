@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ModularGameplayExperiences.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\KulaBoas\Intermediate\Build\Win64\x64\KulaBoasEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.NoValFmtStr.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Unreal Projects\KulaBoas\Plugins\ModularGameplayExperiences\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModularGameplayExperiences\Module.ModularGameplayExperiences.cpp.obj"
+"C:\Unreal Projects\KulaBoas\Plugins\ModularGameplayExperiences\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModularGameplayExperiences\Default.rc2.res"
+/OUT:"C:\Unreal Projects\KulaBoas\Plugins\ModularGameplayExperiences\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModularGameplayExperiences\UnrealEditor-ModularGameplayExperiences.lib"
